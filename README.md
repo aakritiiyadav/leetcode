@@ -21,10 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/aakritiiyadav/leetcode/tree/master/0112-path-sum) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/aakritiiyadav/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/aakritiiyadav/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
 |  |
 | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/aakritiiyadav/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/aakritiiyadav/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/aakritiiyadav/leetcode/tree/master/3620-network-recovery-pathways) |
 ## Heap (Priority Queue)
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0112-path-sum](https://github.com/aakritiiyadav/leetcode/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/aakritiiyadav/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/aakritiiyadav/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Binary Tree
 |  |
 | ------- |
@@ -139,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0397-integer-replacement](https://github.com/aakritiiyadav/leetcode/tree/master/0397-integer-replacement) |
+## Union-Find
+|  |
+| ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/aakritiiyadav/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 <!---LeetCode Topics End-->
