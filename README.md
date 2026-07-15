@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/aakritiiyadav/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0143-reorder-list](https://github.com/aakritiiyadav/leetcode/tree/master/0143-reorder-list) |
 | [1106-parsing-a-boolean-expression](https://github.com/aakritiiyadav/leetcode/tree/master/1106-parsing-a-boolean-expression) |
 ## Binary Search
 |  |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/aakritiiyadav/leetcode/tree/master/0143-reorder-list) |
 | [0647-palindromic-substrings](https://github.com/aakritiiyadav/leetcode/tree/master/0647-palindromic-substrings) |
 | [1048-longest-string-chain](https://github.com/aakritiiyadav/leetcode/tree/master/1048-longest-string-chain) |
 ## Binary Indexed Tree
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/aakritiiyadav/leetcode/tree/master/0143-reorder-list) |
 | [1106-parsing-a-boolean-expression](https://github.com/aakritiiyadav/leetcode/tree/master/1106-parsing-a-boolean-expression) |
 ## Topological Sort
 |  |
@@ -182,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/aakritiiyadav/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Linked List
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/aakritiiyadav/leetcode/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
