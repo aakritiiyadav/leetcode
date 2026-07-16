@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/aakritiiyadav/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/aakritiiyadav/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/aakritiiyadav/leetcode/tree/master/3620-network-recovery-pathways) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/aakritiiyadav/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/aakritiiyadav/leetcode/tree/master/0368-largest-divisible-subset) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/aakritiiyadav/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/aakritiiyadav/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/aakritiiyadav/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/aakritiiyadav/leetcode/tree/master/1048-longest-string-chain) |
 | [1331-rank-transform-of-an-array](https://github.com/aakritiiyadav/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/aakritiiyadav/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/aakritiiyadav/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/aakritiiyadav/leetcode/tree/master/0143-reorder-list) |
 | [0647-palindromic-substrings](https://github.com/aakritiiyadav/leetcode/tree/master/0647-palindromic-substrings) |
 | [1048-longest-string-chain](https://github.com/aakritiiyadav/leetcode/tree/master/1048-longest-string-chain) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/aakritiiyadav/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -185,8 +189,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/aakritiiyadav/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/aakritiiyadav/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Linked List
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/aakritiiyadav/leetcode/tree/master/0143-reorder-list) |
+## Simulation
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/aakritiiyadav/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
