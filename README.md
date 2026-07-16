@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/aakritiiyadav/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0038-count-and-say](https://github.com/aakritiiyadav/leetcode/tree/master/0038-count-and-say) |
 | [0132-palindrome-partitioning-ii](https://github.com/aakritiiyadav/leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/aakritiiyadav/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0647-palindromic-substrings](https://github.com/aakritiiyadav/leetcode/tree/master/0647-palindromic-substrings) |
