@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/aakritiiyadav/leetcode/tree/master/0049-group-anagrams) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/aakritiiyadav/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/aakritiiyadav/leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0200-number-of-islands](https://github.com/aakritiiyadav/leetcode/tree/master/0200-number-of-islands) |
 | [0300-longest-increasing-subsequence](https://github.com/aakritiiyadav/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/aakritiiyadav/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/aakritiiyadav/leetcode/tree/master/0312-burst-balloons) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0112-path-sum](https://github.com/aakritiiyadav/leetcode/tree/master/0112-path-sum) |
 | [0133-clone-graph](https://github.com/aakritiiyadav/leetcode/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/aakritiiyadav/leetcode/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/aakritiiyadav/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/aakritiiyadav/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/aakritiiyadav/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/aakritiiyadav/leetcode/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/aakritiiyadav/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/aakritiiyadav/leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/aakritiiyadav/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -86,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/aakritiiyadav/leetcode/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/aakritiiyadav/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0133-clone-graph](https://github.com/aakritiiyadav/leetcode/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/aakritiiyadav/leetcode/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/aakritiiyadav/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0572-subtree-of-another-tree](https://github.com/aakritiiyadav/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/aakritiiyadav/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -192,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/aakritiiyadav/leetcode/tree/master/0200-number-of-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/aakritiiyadav/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/aakritiiyadav/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Prefix Sum
