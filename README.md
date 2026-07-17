@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0112-path-sum](https://github.com/aakritiiyadav/leetcode/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/aakritiiyadav/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0572-subtree-of-another-tree](https://github.com/aakritiiyadav/leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -86,12 +87,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/aakritiiyadav/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0133-clone-graph](https://github.com/aakritiiyadav/leetcode/tree/master/0133-clone-graph) |
 | [0417-pacific-atlantic-water-flow](https://github.com/aakritiiyadav/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0572-subtree-of-another-tree](https://github.com/aakritiiyadav/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/aakritiiyadav/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Binary Tree
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/aakritiiyadav/leetcode/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/aakritiiyadav/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0572-subtree-of-another-tree](https://github.com/aakritiiyadav/leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Greedy
 |  |
 | ------- |
@@ -222,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/aakritiiyadav/leetcode/tree/master/0214-shortest-palindrome) |
+| [0572-subtree-of-another-tree](https://github.com/aakritiiyadav/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0686-repeated-string-match](https://github.com/aakritiiyadav/leetcode/tree/master/0686-repeated-string-match) |
 ## Rolling Hash
 |  |
@@ -231,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/aakritiiyadav/leetcode/tree/master/0214-shortest-palindrome) |
+| [0572-subtree-of-another-tree](https://github.com/aakritiiyadav/leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Combinatorics
 |  |
 | ------- |
