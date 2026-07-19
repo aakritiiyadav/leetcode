@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/aakritiiyadav/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aakritiiyadav/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/aakritiiyadav/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0169-majority-element](https://github.com/aakritiiyadav/leetcode/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/aakritiiyadav/leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0200-number-of-islands](https://github.com/aakritiiyadav/leetcode/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/aakritiiyadav/leetcode/tree/master/0238-product-of-array-except-self) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/aakritiiyadav/leetcode/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/aakritiiyadav/leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/aakritiiyadav/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/aakritiiyadav/leetcode/tree/master/0368-largest-divisible-subset) |
 | [1048-longest-string-chain](https://github.com/aakritiiyadav/leetcode/tree/master/1048-longest-string-chain) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/aakritiiyadav/leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/aakritiiyadav/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0133-clone-graph](https://github.com/aakritiiyadav/leetcode/tree/master/0133-clone-graph) |
+| [0169-majority-element](https://github.com/aakritiiyadav/leetcode/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/aakritiiyadav/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0347-top-k-frequent-elements](https://github.com/aakritiiyadav/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1048-longest-string-chain](https://github.com/aakritiiyadav/leetcode/tree/master/1048-longest-string-chain) |
@@ -272,12 +275,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/aakritiiyadav/leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/aakritiiyadav/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aakritiiyadav/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/aakritiiyadav/leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/aakritiiyadav/leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/aakritiiyadav/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
