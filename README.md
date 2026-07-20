@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/aakritiiyadav/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/aakritiiyadav/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1048-longest-string-chain](https://github.com/aakritiiyadav/leetcode/tree/master/1048-longest-string-chain) |
+| [1260-shift-2d-grid](https://github.com/aakritiiyadav/leetcode/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/aakritiiyadav/leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1331-rank-transform-of-an-array](https://github.com/aakritiiyadav/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/aakritiiyadav/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/aakritiiyadav/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/aakritiiyadav/leetcode/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/aakritiiyadav/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [1260-shift-2d-grid](https://github.com/aakritiiyadav/leetcode/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/aakritiiyadav/leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/aakritiiyadav/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/aakritiiyadav/leetcode/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aakritiiyadav/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String Matching
 |  |
