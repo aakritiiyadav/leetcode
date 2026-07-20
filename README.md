@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/aakritiiyadav/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/aakritiiyadav/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/aakritiiyadav/leetcode/tree/master/0133-clone-graph) |
+| [0146-lru-cache](https://github.com/aakritiiyadav/leetcode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/aakritiiyadav/leetcode/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/aakritiiyadav/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0347-top-k-frequent-elements](https://github.com/aakritiiyadav/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/aakritiiyadav/leetcode/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/aakritiiyadav/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 ## Trie
 |  |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/aakritiiyadav/leetcode/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/aakritiiyadav/leetcode/tree/master/0146-lru-cache) |
 ## Simulation
 |  |
 | ------- |
@@ -318,4 +321,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/aakritiiyadav/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aakritiiyadav/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/aakritiiyadav/leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
