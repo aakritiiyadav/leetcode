@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/aakritiiyadav/leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/aakritiiyadav/leetcode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/aakritiiyadav/leetcode/tree/master/0200-number-of-islands) |
+| [0221-maximal-square](https://github.com/aakritiiyadav/leetcode/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/aakritiiyadav/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0289-game-of-life](https://github.com/aakritiiyadav/leetcode/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/aakritiiyadav/leetcode/tree/master/0300-longest-increasing-subsequence) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/aakritiiyadav/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/aakritiiyadav/leetcode/tree/master/0200-number-of-islands) |
+| [0221-maximal-square](https://github.com/aakritiiyadav/leetcode/tree/master/0221-maximal-square) |
 | [0289-game-of-life](https://github.com/aakritiiyadav/leetcode/tree/master/0289-game-of-life) |
 | [0417-pacific-atlantic-water-flow](https://github.com/aakritiiyadav/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/aakritiiyadav/leetcode/tree/master/0498-diagonal-traverse) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/aakritiiyadav/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0132-palindrome-partitioning-ii](https://github.com/aakritiiyadav/leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/aakritiiyadav/leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0221-maximal-square](https://github.com/aakritiiyadav/leetcode/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/aakritiiyadav/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/aakritiiyadav/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/aakritiiyadav/leetcode/tree/master/0312-burst-balloons) |
