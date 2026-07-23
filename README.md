@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/aakritiiyadav/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1048-longest-string-chain](https://github.com/aakritiiyadav/leetcode/tree/master/1048-longest-string-chain) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/aakritiiyadav/leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/aakritiiyadav/leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/aakritiiyadav/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [3620-network-recovery-pathways](https://github.com/aakritiiyadav/leetcode/tree/master/3620-network-recovery-pathways) |
 ## Tree
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/aakritiiyadav/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/aakritiiyadav/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/aakritiiyadav/leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/aakritiiyadav/leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/aakritiiyadav/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/aakritiiyadav/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/aakritiiyadav/leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/aakritiiyadav/leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/aakritiiyadav/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Binary Tree
 |  |
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/aakritiiyadav/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/aakritiiyadav/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/aakritiiyadav/leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/aakritiiyadav/leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Greedy
 |  |
 | ------- |
