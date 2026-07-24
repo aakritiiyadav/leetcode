@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/aakritiiyadav/leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/aakritiiyadav/leetcode/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/aakritiiyadav/leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/aakritiiyadav/leetcode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/aakritiiyadav/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aakritiiyadav/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -398,4 +399,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/aakritiiyadav/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/aakritiiyadav/leetcode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
