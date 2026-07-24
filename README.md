@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/aakritiiyadav/leetcode/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/aakritiiyadav/leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/aakritiiyadav/leetcode/tree/master/0227-basic-calculator-ii) |
+| [0326-power-of-three](https://github.com/aakritiiyadav/leetcode/tree/master/0326-power-of-three) |
 | [0368-largest-divisible-subset](https://github.com/aakritiiyadav/leetcode/tree/master/0368-largest-divisible-subset) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aakritiiyadav/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aakritiiyadav/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/aakritiiyadav/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/aakritiiyadav/leetcode/tree/master/0143-reorder-list) |
 | [0224-basic-calculator](https://github.com/aakritiiyadav/leetcode/tree/master/0224-basic-calculator) |
+| [0326-power-of-three](https://github.com/aakritiiyadav/leetcode/tree/master/0326-power-of-three) |
 | [1106-parsing-a-boolean-expression](https://github.com/aakritiiyadav/leetcode/tree/master/1106-parsing-a-boolean-expression) |
 ## Topological Sort
 |  |
