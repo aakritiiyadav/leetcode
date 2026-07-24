@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/aakritiiyadav/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/aakritiiyadav/leetcode/tree/master/0143-reorder-list) |
 | [0224-basic-calculator](https://github.com/aakritiiyadav/leetcode/tree/master/0224-basic-calculator) |
 | [1106-parsing-a-boolean-expression](https://github.com/aakritiiyadav/leetcode/tree/master/1106-parsing-a-boolean-expression) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/aakritiiyadav/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/aakritiiyadav/leetcode/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/aakritiiyadav/leetcode/tree/master/0146-lru-cache) |
 ## Simulation
