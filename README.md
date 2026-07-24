@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/aakritiiyadav/leetcode/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/aakritiiyadav/leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/aakritiiyadav/leetcode/tree/master/0226-invert-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/aakritiiyadav/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0417-pacific-atlantic-water-flow](https://github.com/aakritiiyadav/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/aakritiiyadav/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/aakritiiyadav/leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/aakritiiyadav/leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/aakritiiyadav/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0257-binary-tree-paths](https://github.com/aakritiiyadav/leetcode/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/aakritiiyadav/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/aakritiiyadav/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0647-palindromic-substrings](https://github.com/aakritiiyadav/leetcode/tree/master/0647-palindromic-substrings) |
 | [0686-repeated-string-match](https://github.com/aakritiiyadav/leetcode/tree/master/0686-repeated-string-match) |
@@ -431,5 +433,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/aakritiiyadav/leetcode/tree/master/0093-restore-ip-addresses) |
 | [0113-path-sum-ii](https://github.com/aakritiiyadav/leetcode/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/aakritiiyadav/leetcode/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/aakritiiyadav/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [1079-letter-tile-possibilities](https://github.com/aakritiiyadav/leetcode/tree/master/1079-letter-tile-possibilities) |
 <!---LeetCode Topics End-->
