@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/aakritiiyadav/leetcode/tree/master/0312-burst-balloons) |
 | [0347-top-k-frequent-elements](https://github.com/aakritiiyadav/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/aakritiiyadav/leetcode/tree/master/0368-largest-divisible-subset) |
+| [0414-third-maximum-number](https://github.com/aakritiiyadav/leetcode/tree/master/0414-third-maximum-number) |
 | [0417-pacific-atlantic-water-flow](https://github.com/aakritiiyadav/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/aakritiiyadav/leetcode/tree/master/0498-diagonal-traverse) |
 | [0525-contiguous-array](https://github.com/aakritiiyadav/leetcode/tree/master/0525-contiguous-array) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/aakritiiyadav/leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/aakritiiyadav/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/aakritiiyadav/leetcode/tree/master/0368-largest-divisible-subset) |
+| [0414-third-maximum-number](https://github.com/aakritiiyadav/leetcode/tree/master/0414-third-maximum-number) |
 | [1048-longest-string-chain](https://github.com/aakritiiyadav/leetcode/tree/master/1048-longest-string-chain) |
 | [1331-rank-transform-of-an-array](https://github.com/aakritiiyadav/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/aakritiiyadav/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
