@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1695-maximum-erasure-value](https://github.com/aakritiiyadav/leetcode/tree/master/1695-maximum-erasure-value) |
 | [1779-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/aakritiiyadav/leetcode/tree/master/1779-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aakritiiyadav/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/aakritiiyadav/leetcode/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/aakritiiyadav/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aakritiiyadav/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/aakritiiyadav/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/aakritiiyadav/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/aakritiiyadav/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aakritiiyadav/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/aakritiiyadav/leetcode/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 ## String
 |  |
 | ------- |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1106-parsing-a-boolean-expression](https://github.com/aakritiiyadav/leetcode/tree/master/1106-parsing-a-boolean-expression) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/aakritiiyadav/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1796-second-largest-digit-in-a-string](https://github.com/aakritiiyadav/leetcode/tree/master/1796-second-largest-digit-in-a-string) |
+| [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/aakritiiyadav/leetcode/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/aakritiiyadav/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/aakritiiyadav/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Stack
@@ -303,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aakritiiyadav/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1695-maximum-erasure-value](https://github.com/aakritiiyadav/leetcode/tree/master/1695-maximum-erasure-value) |
 | [1796-second-largest-digit-in-a-string](https://github.com/aakritiiyadav/leetcode/tree/master/1796-second-largest-digit-in-a-string) |
+| [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/aakritiiyadav/leetcode/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aakritiiyadav/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/aakritiiyadav/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Two Pointers
@@ -423,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/aakritiiyadav/leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/aakritiiyadav/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1079-letter-tile-possibilities](https://github.com/aakritiiyadav/leetcode/tree/master/1079-letter-tile-possibilities) |
+| [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/aakritiiyadav/leetcode/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aakritiiyadav/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Divide and Conquer
 |  |
