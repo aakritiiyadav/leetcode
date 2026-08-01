@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/aakritiiyadav/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0414-third-maximum-number](https://github.com/aakritiiyadav/leetcode/tree/master/0414-third-maximum-number) |
 | [0417-pacific-atlantic-water-flow](https://github.com/aakritiiyadav/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0486-predict-the-winner](https://github.com/aakritiiyadav/leetcode/tree/master/0486-predict-the-winner) |
 | [0498-diagonal-traverse](https://github.com/aakritiiyadav/leetcode/tree/master/0498-diagonal-traverse) |
 | [0525-contiguous-array](https://github.com/aakritiiyadav/leetcode/tree/master/0525-contiguous-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aakritiiyadav/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/aakritiiyadav/leetcode/tree/master/0338-counting-bits) |
 | [0368-largest-divisible-subset](https://github.com/aakritiiyadav/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0397-integer-replacement](https://github.com/aakritiiyadav/leetcode/tree/master/0397-integer-replacement) |
+| [0486-predict-the-winner](https://github.com/aakritiiyadav/leetcode/tree/master/0486-predict-the-winner) |
 | [0647-palindromic-substrings](https://github.com/aakritiiyadav/leetcode/tree/master/0647-palindromic-substrings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/aakritiiyadav/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/aakritiiyadav/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/aakritiiyadav/leetcode/tree/master/0326-power-of-three) |
 | [0368-largest-divisible-subset](https://github.com/aakritiiyadav/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/aakritiiyadav/leetcode/tree/master/0371-sum-of-two-integers) |
+| [0486-predict-the-winner](https://github.com/aakritiiyadav/leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aakritiiyadav/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/aakritiiyadav/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1641-count-sorted-vowel-strings](https://github.com/aakritiiyadav/leetcode/tree/master/1641-count-sorted-vowel-strings) |
@@ -340,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/aakritiiyadav/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0224-basic-calculator](https://github.com/aakritiiyadav/leetcode/tree/master/0224-basic-calculator) |
 | [0326-power-of-three](https://github.com/aakritiiyadav/leetcode/tree/master/0326-power-of-three) |
+| [0486-predict-the-winner](https://github.com/aakritiiyadav/leetcode/tree/master/0486-predict-the-winner) |
 | [1106-parsing-a-boolean-expression](https://github.com/aakritiiyadav/leetcode/tree/master/1106-parsing-a-boolean-expression) |
 ## Topological Sort
 |  |
@@ -495,4 +499,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/aakritiiyadav/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/aakritiiyadav/leetcode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
