@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/aakritiiyadav/leetcode/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/aakritiiyadav/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/aakritiiyadav/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aakritiiyadav/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -516,4 +517,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/aakritiiyadav/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/aakritiiyadav/leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/aakritiiyadav/leetcode/tree/master/1406-stone-game-iii) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/aakritiiyadav/leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
