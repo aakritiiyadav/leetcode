@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/aakritiiyadav/leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/aakritiiyadav/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/aakritiiyadav/leetcode/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/aakritiiyadav/leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2594-minimum-time-to-repair-cars](https://github.com/aakritiiyadav/leetcode/tree/master/2594-minimum-time-to-repair-cars) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/aakritiiyadav/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aakritiiyadav/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/aakritiiyadav/leetcode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/aakritiiyadav/leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/aakritiiyadav/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/aakritiiyadav/leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2594-minimum-time-to-repair-cars](https://github.com/aakritiiyadav/leetcode/tree/master/2594-minimum-time-to-repair-cars) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aakritiiyadav/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/aakritiiyadav/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
