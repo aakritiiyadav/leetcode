@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/aakritiiyadav/leetcode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1779-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/aakritiiyadav/leetcode/tree/master/1779-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aakritiiyadav/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/aakritiiyadav/leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/aakritiiyadav/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/aakritiiyadav/leetcode/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2594-minimum-time-to-repair-cars](https://github.com/aakritiiyadav/leetcode/tree/master/2594-minimum-time-to-repair-cars) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/aakritiiyadav/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aakritiiyadav/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1400-construct-k-palindrome-strings](https://github.com/aakritiiyadav/leetcode/tree/master/1400-construct-k-palindrome-strings) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/aakritiiyadav/leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/aakritiiyadav/leetcode/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 ## String
 |  |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/aakritiiyadav/leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aakritiiyadav/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/aakritiiyadav/leetcode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/aakritiiyadav/leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/aakritiiyadav/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2594-minimum-time-to-repair-cars](https://github.com/aakritiiyadav/leetcode/tree/master/2594-minimum-time-to-repair-cars) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aakritiiyadav/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
