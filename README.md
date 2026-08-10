@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1277-count-square-submatrices-with-all-ones](https://github.com/aakritiiyadav/leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/aakritiiyadav/leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1406-stone-game-iii](https://github.com/aakritiiyadav/leetcode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/aakritiiyadav/leetcode/tree/master/1510-stone-game-iv) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/aakritiiyadav/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1641-count-sorted-vowel-strings](https://github.com/aakritiiyadav/leetcode/tree/master/1641-count-sorted-vowel-strings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aakritiiyadav/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/aakritiiyadav/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1140-stone-game-ii](https://github.com/aakritiiyadav/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/aakritiiyadav/leetcode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/aakritiiyadav/leetcode/tree/master/1510-stone-game-iv) |
 | [1641-count-sorted-vowel-strings](https://github.com/aakritiiyadav/leetcode/tree/master/1641-count-sorted-vowel-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aakritiiyadav/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aakritiiyadav/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -568,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/aakritiiyadav/leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/aakritiiyadav/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/aakritiiyadav/leetcode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/aakritiiyadav/leetcode/tree/master/1510-stone-game-iv) |
 ## Interactive
 |  |
 | ------- |
@@ -580,10 +583,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/aakritiiyadav/leetcode/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/aakritiiyadav/leetcode/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/aakritiiyadav/leetcode/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/aakritiiyadav/leetcode/tree/master/1510-stone-game-iv) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -592,4 +597,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/aakritiiyadav/leetcode/tree/master/0287-find-the-duplicate-number) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/aakritiiyadav/leetcode/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/aakritiiyadav/leetcode/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
