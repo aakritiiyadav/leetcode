@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/aakritiiyadav/leetcode/tree/master/0049-group-anagrams) |
 | [0093-restore-ip-addresses](https://github.com/aakritiiyadav/leetcode/tree/master/0093-restore-ip-addresses) |
 | [0132-palindrome-partitioning-ii](https://github.com/aakritiiyadav/leetcode/tree/master/0132-palindrome-partitioning-ii) |
+| [0165-compare-version-numbers](https://github.com/aakritiiyadav/leetcode/tree/master/0165-compare-version-numbers) |
 | [0168-excel-sheet-column-title](https://github.com/aakritiiyadav/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0208-implement-trie-prefix-tree](https://github.com/aakritiiyadav/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0214-shortest-palindrome](https://github.com/aakritiiyadav/leetcode/tree/master/0214-shortest-palindrome) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/aakritiiyadav/leetcode/tree/master/0143-reorder-list) |
+| [0165-compare-version-numbers](https://github.com/aakritiiyadav/leetcode/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/aakritiiyadav/leetcode/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/aakritiiyadav/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/aakritiiyadav/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
