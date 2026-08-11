@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/aakritiiyadav/leetcode/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/aakritiiyadav/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0686-repeated-string-match](https://github.com/aakritiiyadav/leetcode/tree/master/0686-repeated-string-match) |
+| [0791-custom-sort-string](https://github.com/aakritiiyadav/leetcode/tree/master/0791-custom-sort-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/aakritiiyadav/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1048-longest-string-chain](https://github.com/aakritiiyadav/leetcode/tree/master/1048-longest-string-chain) |
 | [1079-letter-tile-possibilities](https://github.com/aakritiiyadav/leetcode/tree/master/1079-letter-tile-possibilities) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/aakritiiyadav/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0414-third-maximum-number](https://github.com/aakritiiyadav/leetcode/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aakritiiyadav/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0791-custom-sort-string](https://github.com/aakritiiyadav/leetcode/tree/master/0791-custom-sort-string) |
 | [0973-k-closest-points-to-origin](https://github.com/aakritiiyadav/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1048-longest-string-chain](https://github.com/aakritiiyadav/leetcode/tree/master/1048-longest-string-chain) |
 | [1331-rank-transform-of-an-array](https://github.com/aakritiiyadav/leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/aakritiiyadav/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0525-contiguous-array](https://github.com/aakritiiyadav/leetcode/tree/master/0525-contiguous-array) |
 | [0567-permutation-in-string](https://github.com/aakritiiyadav/leetcode/tree/master/0567-permutation-in-string) |
+| [0791-custom-sort-string](https://github.com/aakritiiyadav/leetcode/tree/master/0791-custom-sort-string) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/aakritiiyadav/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0904-fruit-into-baskets](https://github.com/aakritiiyadav/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/aakritiiyadav/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
