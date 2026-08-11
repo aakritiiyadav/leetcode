@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/aakritiiyadav/leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2594-minimum-time-to-repair-cars](https://github.com/aakritiiyadav/leetcode/tree/master/2594-minimum-time-to-repair-cars) |
 | [2861-maximum-number-of-alloys](https://github.com/aakritiiyadav/leetcode/tree/master/2861-maximum-number-of-alloys) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aakritiiyadav/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/aakritiiyadav/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aakritiiyadav/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/aakritiiyadav/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/aakritiiyadav/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1552-magnetic-force-between-two-balls](https://github.com/aakritiiyadav/leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/aakritiiyadav/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aakritiiyadav/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/aakritiiyadav/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/aakritiiyadav/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aakritiiyadav/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1695-maximum-erasure-value](https://github.com/aakritiiyadav/leetcode/tree/master/1695-maximum-erasure-value) |
 | [1796-second-largest-digit-in-a-string](https://github.com/aakritiiyadav/leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/aakritiiyadav/leetcode/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aakritiiyadav/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aakritiiyadav/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/aakritiiyadav/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Two Pointers
