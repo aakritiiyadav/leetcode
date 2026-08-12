@@ -302,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/aakritiiyadav/leetcode/tree/master/0012-integer-to-roman) |
 | [0168-excel-sheet-column-title](https://github.com/aakritiiyadav/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/aakritiiyadav/leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/aakritiiyadav/leetcode/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/aakritiiyadav/leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/aakritiiyadav/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0326-power-of-three](https://github.com/aakritiiyadav/leetcode/tree/master/0326-power-of-three) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/aakritiiyadav/leetcode/tree/master/0133-clone-graph) |
 | [0146-lru-cache](https://github.com/aakritiiyadav/leetcode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/aakritiiyadav/leetcode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/aakritiiyadav/leetcode/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/aakritiiyadav/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0347-top-k-frequent-elements](https://github.com/aakritiiyadav/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/aakritiiyadav/leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/aakritiiyadav/leetcode/tree/master/0143-reorder-list) |
 | [0165-compare-version-numbers](https://github.com/aakritiiyadav/leetcode/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/aakritiiyadav/leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/aakritiiyadav/leetcode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/aakritiiyadav/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/aakritiiyadav/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/aakritiiyadav/leetcode/tree/master/0567-permutation-in-string) |
@@ -617,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/aakritiiyadav/leetcode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/aakritiiyadav/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Nim Game
 |  |
