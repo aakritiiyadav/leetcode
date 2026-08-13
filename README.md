@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/aakritiiyadav/leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/aakritiiyadav/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/aakritiiyadav/leetcode/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/aakritiiyadav/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/aakritiiyadav/leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2594-minimum-time-to-repair-cars](https://github.com/aakritiiyadav/leetcode/tree/master/2594-minimum-time-to-repair-cars) |
 | [2861-maximum-number-of-alloys](https://github.com/aakritiiyadav/leetcode/tree/master/2861-maximum-number-of-alloys) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/aakritiiyadav/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1796-second-largest-digit-in-a-string](https://github.com/aakritiiyadav/leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/aakritiiyadav/leetcode/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/aakritiiyadav/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aakritiiyadav/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/aakritiiyadav/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/aakritiiyadav/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/aakritiiyadav/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/aakritiiyadav/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Recursion
 |  |
 | ------- |
@@ -634,4 +637,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/aakritiiyadav/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/aakritiiyadav/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
