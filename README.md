@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aakritiiyadav/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/aakritiiyadav/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1400-construct-k-palindrome-strings](https://github.com/aakritiiyadav/leetcode/tree/master/1400-construct-k-palindrome-strings) |
+| [1927-sum-game](https://github.com/aakritiiyadav/leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/aakritiiyadav/leetcode/tree/master/2029-stone-game-ix) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/aakritiiyadav/leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/aakritiiyadav/leetcode/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1400-construct-k-palindrome-strings](https://github.com/aakritiiyadav/leetcode/tree/master/1400-construct-k-palindrome-strings) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/aakritiiyadav/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1796-second-largest-digit-in-a-string](https://github.com/aakritiiyadav/leetcode/tree/master/1796-second-largest-digit-in-a-string) |
+| [1927-sum-game](https://github.com/aakritiiyadav/leetcode/tree/master/1927-sum-game) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/aakritiiyadav/leetcode/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/aakritiiyadav/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aakritiiyadav/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/aakritiiyadav/leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/aakritiiyadav/leetcode/tree/master/1563-stone-game-v) |
 | [1641-count-sorted-vowel-strings](https://github.com/aakritiiyadav/leetcode/tree/master/1641-count-sorted-vowel-strings) |
+| [1927-sum-game](https://github.com/aakritiiyadav/leetcode/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aakritiiyadav/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/aakritiiyadav/leetcode/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/aakritiiyadav/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -626,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/aakritiiyadav/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/aakritiiyadav/leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/aakritiiyadav/leetcode/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/aakritiiyadav/leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/aakritiiyadav/leetcode/tree/master/2029-stone-game-ix) |
 ## Interactive
 |  |
