@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/aakritiiyadav/leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/aakritiiyadav/leetcode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/aakritiiyadav/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0090-subsets-ii](https://github.com/aakritiiyadav/leetcode/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aakritiiyadav/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/aakritiiyadav/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/aakritiiyadav/leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -529,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/aakritiiyadav/leetcode/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/aakritiiyadav/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/aakritiiyadav/leetcode/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/aakritiiyadav/leetcode/tree/master/0371-sum-of-two-integers) |
@@ -702,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/aakritiiyadav/leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/aakritiiyadav/leetcode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/aakritiiyadav/leetcode/tree/master/0077-combinations) |
+| [0090-subsets-ii](https://github.com/aakritiiyadav/leetcode/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/aakritiiyadav/leetcode/tree/master/0093-restore-ip-addresses) |
 | [0113-path-sum-ii](https://github.com/aakritiiyadav/leetcode/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/aakritiiyadav/leetcode/tree/master/0257-binary-tree-paths) |
