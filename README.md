@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/aakritiiyadav/leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/aakritiiyadav/leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/aakritiiyadav/leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/aakritiiyadav/leetcode/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/aakritiiyadav/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/aakritiiyadav/leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/aakritiiyadav/leetcode/tree/master/0090-subsets-ii) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/aakritiiyadav/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/aakritiiyadav/leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/aakritiiyadav/leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aakritiiyadav/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/aakritiiyadav/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0131-palindrome-partitioning](https://github.com/aakritiiyadav/leetcode/tree/master/0131-palindrome-partitioning) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/aakritiiyadav/leetcode/tree/master/0055-jump-game) |
 | [0316-remove-duplicate-letters](https://github.com/aakritiiyadav/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0397-integer-replacement](https://github.com/aakritiiyadav/leetcode/tree/master/0397-integer-replacement) |
 | [0409-longest-palindrome](https://github.com/aakritiiyadav/leetcode/tree/master/0409-longest-palindrome) |
