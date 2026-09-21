@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/aakritiiyadav/leetcode/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/aakritiiyadav/leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/aakritiiyadav/leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/aakritiiyadav/leetcode/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/aakritiiyadav/leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/aakritiiyadav/leetcode/tree/master/0051-n-queens) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/aakritiiyadav/leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/aakritiiyadav/leetcode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/aakritiiyadav/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/aakritiiyadav/leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/aakritiiyadav/leetcode/tree/master/0200-number-of-islands) |
@@ -455,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/aakritiiyadav/leetcode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aakritiiyadav/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/aakritiiyadav/leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/aakritiiyadav/leetcode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/aakritiiyadav/leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/aakritiiyadav/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/aakritiiyadav/leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -709,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aakritiiyadav/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/aakritiiyadav/leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/aakritiiyadav/leetcode/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/aakritiiyadav/leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/aakritiiyadav/leetcode/tree/master/0052-n-queens-ii) |
@@ -792,4 +796,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/aakritiiyadav/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/aakritiiyadav/leetcode/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/aakritiiyadav/leetcode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
