@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/aakritiiyadav/leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/aakritiiyadav/leetcode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/aakritiiyadav/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/aakritiiyadav/leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/aakritiiyadav/leetcode/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aakritiiyadav/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/aakritiiyadav/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/aakritiiyadav/leetcode/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/aakritiiyadav/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/aakritiiyadav/leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/aakritiiyadav/leetcode/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/aakritiiyadav/leetcode/tree/master/0221-maximal-square) |
 | [0289-game-of-life](https://github.com/aakritiiyadav/leetcode/tree/master/0289-game-of-life) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/aakritiiyadav/leetcode/tree/master/0079-word-search) |
 | [0112-path-sum](https://github.com/aakritiiyadav/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/aakritiiyadav/leetcode/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/aakritiiyadav/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -284,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/aakritiiyadav/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/aakritiiyadav/leetcode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/aakritiiyadav/leetcode/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/aakritiiyadav/leetcode/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/aakritiiyadav/leetcode/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/aakritiiyadav/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/aakritiiyadav/leetcode/tree/master/0132-palindrome-partitioning-ii) |
@@ -709,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/aakritiiyadav/leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/aakritiiyadav/leetcode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/aakritiiyadav/leetcode/tree/master/0077-combinations) |
+| [0079-word-search](https://github.com/aakritiiyadav/leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/aakritiiyadav/leetcode/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/aakritiiyadav/leetcode/tree/master/0093-restore-ip-addresses) |
 | [0113-path-sum-ii](https://github.com/aakritiiyadav/leetcode/tree/master/0113-path-sum-ii) |
