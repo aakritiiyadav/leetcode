@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/aakritiiyadav/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0417-pacific-atlantic-water-flow](https://github.com/aakritiiyadav/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/aakritiiyadav/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1096-brace-expansion-ii](https://github.com/aakritiiyadav/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/aakritiiyadav/leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/aakritiiyadav/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/aakritiiyadav/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/aakritiiyadav/leetcode/tree/master/1048-longest-string-chain) |
 | [1079-letter-tile-possibilities](https://github.com/aakritiiyadav/leetcode/tree/master/1079-letter-tile-possibilities) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aakritiiyadav/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/aakritiiyadav/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1106-parsing-a-boolean-expression](https://github.com/aakritiiyadav/leetcode/tree/master/1106-parsing-a-boolean-expression) |
 | [1208-get-equal-substrings-within-budget](https://github.com/aakritiiyadav/leetcode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1400-construct-k-palindrome-strings](https://github.com/aakritiiyadav/leetcode/tree/master/1400-construct-k-palindrome-strings) |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/aakritiiyadav/leetcode/tree/master/0739-daily-temperatures) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/aakritiiyadav/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aakritiiyadav/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/aakritiiyadav/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1106-parsing-a-boolean-expression](https://github.com/aakritiiyadav/leetcode/tree/master/1106-parsing-a-boolean-expression) |
 | [1124-longest-well-performing-interval](https://github.com/aakritiiyadav/leetcode/tree/master/1124-longest-well-performing-interval) |
 ## Binary Search
@@ -449,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/aakritiiyadav/leetcode/tree/master/0791-custom-sort-string) |
 | [0973-k-closest-points-to-origin](https://github.com/aakritiiyadav/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1048-longest-string-chain](https://github.com/aakritiiyadav/leetcode/tree/master/1048-longest-string-chain) |
+| [1096-brace-expansion-ii](https://github.com/aakritiiyadav/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/aakritiiyadav/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aakritiiyadav/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/aakritiiyadav/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -490,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/aakritiiyadav/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1048-longest-string-chain](https://github.com/aakritiiyadav/leetcode/tree/master/1048-longest-string-chain) |
 | [1079-letter-tile-possibilities](https://github.com/aakritiiyadav/leetcode/tree/master/1079-letter-tile-possibilities) |
+| [1096-brace-expansion-ii](https://github.com/aakritiiyadav/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/aakritiiyadav/leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1124-longest-well-performing-interval](https://github.com/aakritiiyadav/leetcode/tree/master/1124-longest-well-performing-interval) |
 | [1331-rank-transform-of-an-array](https://github.com/aakritiiyadav/leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -739,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/aakritiiyadav/leetcode/tree/master/0257-binary-tree-paths) |
 | [0301-remove-invalid-parentheses](https://github.com/aakritiiyadav/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [1079-letter-tile-possibilities](https://github.com/aakritiiyadav/leetcode/tree/master/1079-letter-tile-possibilities) |
+| [1096-brace-expansion-ii](https://github.com/aakritiiyadav/leetcode/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/aakritiiyadav/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Geometry
 |  |
