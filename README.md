@@ -332,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aakritiiyadav/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/aakritiiyadav/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1106-parsing-a-boolean-expression](https://github.com/aakritiiyadav/leetcode/tree/master/1106-parsing-a-boolean-expression) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aakritiiyadav/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1208-get-equal-substrings-within-budget](https://github.com/aakritiiyadav/leetcode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1400-construct-k-palindrome-strings](https://github.com/aakritiiyadav/leetcode/tree/master/1400-construct-k-palindrome-strings) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/aakritiiyadav/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/aakritiiyadav/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1106-parsing-a-boolean-expression](https://github.com/aakritiiyadav/leetcode/tree/master/1106-parsing-a-boolean-expression) |
 | [1124-longest-well-performing-interval](https://github.com/aakritiiyadav/leetcode/tree/master/1124-longest-well-performing-interval) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aakritiiyadav/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Binary Search
 |  |
 | ------- |
@@ -839,4 +841,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/aakritiiyadav/leetcode/tree/master/0678-valid-parenthesis-string) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aakritiiyadav/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
