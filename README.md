@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/aakritiiyadav/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/aakritiiyadav/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/aakritiiyadav/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/aakritiiyadav/leetcode/tree/master/0055-jump-game) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/aakritiiyadav/leetcode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aakritiiyadav/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/aakritiiyadav/leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/aakritiiyadav/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/aakritiiyadav/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/aakritiiyadav/leetcode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/aakritiiyadav/leetcode/tree/master/0049-group-anagrams) |
@@ -753,6 +755,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aakritiiyadav/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/aakritiiyadav/leetcode/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/aakritiiyadav/leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/aakritiiyadav/leetcode/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/aakritiiyadav/leetcode/tree/master/0051-n-queens) |
@@ -854,6 +857,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/aakritiiyadav/leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/aakritiiyadav/leetcode/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/aakritiiyadav/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/aakritiiyadav/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aakritiiyadav/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
