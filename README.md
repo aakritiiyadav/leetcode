@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/aakritiiyadav/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aakritiiyadav/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3364-minimum-positive-sum-subarray](https://github.com/aakritiiyadav/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
+| [3413-maximum-coins-from-k-consecutive-bags](https://github.com/aakritiiyadav/leetcode/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/aakritiiyadav/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/aakritiiyadav/leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/aakritiiyadav/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/aakritiiyadav/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aakritiiyadav/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/aakritiiyadav/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3413-maximum-coins-from-k-consecutive-bags](https://github.com/aakritiiyadav/leetcode/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/aakritiiyadav/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/aakritiiyadav/leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/aakritiiyadav/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -474,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2861-maximum-number-of-alloys](https://github.com/aakritiiyadav/leetcode/tree/master/2861-maximum-number-of-alloys) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/aakritiiyadav/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aakritiiyadav/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3413-maximum-coins-from-k-consecutive-bags](https://github.com/aakritiiyadav/leetcode/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/aakritiiyadav/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/aakritiiyadav/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/aakritiiyadav/leetcode/tree/master/3620-network-recovery-pathways) |
@@ -562,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/aakritiiyadav/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aakritiiyadav/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/aakritiiyadav/leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
+| [3413-maximum-coins-from-k-consecutive-bags](https://github.com/aakritiiyadav/leetcode/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/aakritiiyadav/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/aakritiiyadav/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/aakritiiyadav/leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -726,6 +730,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/aakritiiyadav/leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aakritiiyadav/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3364-minimum-positive-sum-subarray](https://github.com/aakritiiyadav/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
+| [3413-maximum-coins-from-k-consecutive-bags](https://github.com/aakritiiyadav/leetcode/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/aakritiiyadav/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3903-smallest-stable-index-i](https://github.com/aakritiiyadav/leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Design
@@ -851,6 +856,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aakritiiyadav/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aakritiiyadav/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3364-minimum-positive-sum-subarray](https://github.com/aakritiiyadav/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
+| [3413-maximum-coins-from-k-consecutive-bags](https://github.com/aakritiiyadav/leetcode/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/aakritiiyadav/leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/aakritiiyadav/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Enumeration
